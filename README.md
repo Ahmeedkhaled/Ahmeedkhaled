@@ -31,7 +31,7 @@
 ### 📂 My Work
 
 <p align="center">
-  <a href="https://github.com/Ahmeedkhaled/Ahmed_Khaled_CV.pdf">
+  <a href="[https://github.com/Ahmeedkhaled/Ahmed_Khaled_CV.pdf](https://github.com/Ahmeedkhaled/Ahmeedkhaled/blob/main/Ahmed_Khaled_CV.pdf)">
     <img src="https://img.shields.io/badge/My%20CV-FFB703?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   <a href="https://ahmeedkhaled.github.io/portfolio">
