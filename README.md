@@ -73,7 +73,7 @@
 
 | App | Description | Link |
 |-----|--------------|------|
-| **Hayatk App** | Wellness super-app: chat, maps, booking, notifications | [Play Store](https://play.google.com/store/apps/details?id=com.emcan.hyatk) |
+| **Hayatk App** | Wellness super-app: chat, maps, booking, notifications | [Play Store]([https://play.google.com/store/apps/details?id=com.emcan.hyatk](https://play.google.com/store/apps/details?id=com.gemma.hyatak)) |[App Store](https://apps.apple.com/eg/app/%D8%AD%D9%8A%D8%A7%D8%AA%D9%83-%D8%A8%D8%B1%D9%88-hyatk-pro/id6751138694 حياتك برو - HYATK PRO)
 | **One-Hand App** | Employment platform with CV generator and notifications | 🔗 Coming Soon |
 | **Management System** | Firebase-based task manager with localization and themes | 🔗 Coming Soon |
 
