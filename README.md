@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ahmed Khaled</h1>
-<h3 align="center">Flutter Developer | Mobile App Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <a href="mailto:ahmeedkhaaled05@gmail.com">
